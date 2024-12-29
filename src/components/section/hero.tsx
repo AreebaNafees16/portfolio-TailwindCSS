@@ -13,7 +13,7 @@ export default function HomePage() {
                 <div className="col-span-7 place-self-center sm:text-left order-2 sm:order-1 md:mt-4">
                     <h1 className="text-white mb-4 text-4xl sm:text-5xl lg:text-6xl font-extrabold">
                         <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-gray-400">
-                            Hello, I'm <br /> Areeba Nafees
+                            Hello, I&apos;m <br /> Areeba Nafees
                         </span>
                         <br />
                         <TypeAnimation

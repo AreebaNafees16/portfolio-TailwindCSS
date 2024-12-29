@@ -17,7 +17,7 @@ export default function About() {
         <div className="md:w-1/2">
           <h2 className="text-4xl font-bold mb-6 mt-6">About <span className="text-cyan-500">Me</span></h2>
           <p className="text-lg leading-relaxed mb-6">
-            Hello! I'm <span className="text-white font-semibold">Areeba Muhammad Nafees</span>, a passionate 
+            Hello! I&apos;m <span className="text-white font-semibold">Areeba Muhammad Nafees</span>, a passionate 
             <span className="text-cyan-400"> Web Developer</span> with expertise in building dynamic and user-friendly solutions. 
             I specialize in creating digital experiences that leave a lasting impression.
           </p>
@@ -26,7 +26,7 @@ export default function About() {
             I thrive on solving complex challenges with creative thinking and a results-driven mindset.
           </p>
           <p className="text-lg leading-relaxed">
-            When I'm not coding, you can find me e.g., exploring nature, experimenting with new recipes, or geeking out over the latest tech trends.
+            When I&apos;m not coding, you can find me e.g., exploring nature, experimenting with new recipes, or geeking out over the latest tech trends.
           </p>
 
           {/* Call-to-Action */}
@@ -35,11 +35,11 @@ export default function About() {
               href="/contact"
               className="inline-block px-8 py-3 text-sm font-medium text-black bg-cyan-400 rounded-md shadow-md hover:bg-cyan-500 transition duration-300"
             >
-              Let's Connect
+              Let&apos;s Connect
             </a>
           </div>
           <blockquote className="bg-[#1f1f1f] text-gray-400 italic p-6 rounded-md mt-8">
-  "Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs
+          &quot;Design is not just what it looks like and feels like. Design is how it works.&quot; – Steve Jobs
 </blockquote>
 
         </div>
