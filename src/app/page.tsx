@@ -11,7 +11,7 @@ import ProjectCard from "@/components/projectCard";
 export default function Mainpage() {
   return (
     <main className="flex min-h-screen flex-col bg-black">
-      <div className="container mx-auto px-28 mt-20 py-4 bg-black">
+      <div className="container mx-auto md:px-28 px-4 mt-20 py-4 bg-black">
         
       <Hero />
       <About />
